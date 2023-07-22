@@ -1,0 +1,59 @@
+.logo{
+    margin-top: 40px;
+    margin-bottom: 20px;
+}
+.bg-main{
+    margin: 0px;
+}
+
+.tile{
+    text-align: center;
+    margin-top: 150px;
+    margin-bottom: 100px;
+}
+.navbar-nav .nav-link {
+    margin-right: 20px;
+    margin-left: 20px;
+}
+.card{
+    border: none;
+    margin: 10px;
+}
+.grid .container{
+    margin: 10px;
+}
+.column-content {
+    text-align: center;
+  }
+  
+  .column-title {
+    font-size: 18px;
+    font-weight: bold;
+    margin-bottom: 10px;
+  }
+  
+  .column-text {
+    font-size: 14px;
+    line-height: 1.5;
+  }
+  
+  @media (max-width: 767px) {
+    .column-content {
+      text-align: left;
+    }
+  }
+.list-item1{
+    float: right;
+}
+.list-itme2{
+    float: left;
+}
+footer {
+    background-color: #000;
+    padding-top: 170px;
+    padding-bottom: 30px;
+    margin-top: 100px;
+}
+.item-titlec{
+    font-size: 13px;
+}
